@@ -1,0 +1,11 @@
+body {
+  background-color: blue;
+}
+
+#results {
+  background-color: white;
+  width: 655px;
+  height: 655px;
+  color: black;
+  margin: 0 auto;
+}
