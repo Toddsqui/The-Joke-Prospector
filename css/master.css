@@ -1,0 +1,84 @@
+body{
+  box-sizing: border-box;
+}
+
+.navbar ul{
+color: white;
+list-style-type: none;
+float: left;
+display: inline-block;
+}
+
+.navbar ul>li{
+display: inline-block;
+margin: 0 auto;
+margin-right: 10px;
+margin-top: 20px;
+text-align: center;
+}
+
+#intro{
+padding: 145px;
+height: 500px;
+width: 100%;
+background: url('../standup.jpg') no-repeat;
+background-size: 100% 100%;
+
+}
+
+h1{
+margin: 0 auto;
+color: white;
+font-family: 'Righteous', cursive;
+font-size: 71px;
+}
+
+#mainofferings{
+background-color: #D12E2E;
+height: 400px;
+}
+
+#disclaimer {
+background-color: #6E8478;
+height: 400px;
+}
+
+.large{
+padding-top: 20%;
+padding-bottom: 14%;
+padding-left: 32%;
+font-size: 7em;
+color: black;
+}
+
+.col-md-4{
+height: 400px;
+}
+
+/* DEAD SMILEY FACE */
+img{
+padding-top: 7%;
+padding-left: 36%;
+width: 456px;
+}
+
+/* END OF DEAD SMILEY FACE */
+
+
+/* FOOTER */
+
+
+.footer {
+  background-color: black;
+}
+
+.footer>p{
+  height: 41px;
+  color: white;
+  margin-left: 35%;
+  top: 10px;
+  padding-top: 10px;
+  font-family: Verdana, cursive;
+}
+
+/* END OF FOOTER */
